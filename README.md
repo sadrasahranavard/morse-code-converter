@@ -58,24 +58,12 @@ morse-code-converter/
 │   ├── __init__.py
 │   └── test_converter.py # Unit tests
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
 
-## Morse Code Reference
+## License
 
-### Letters
-```
-A .-      B -...    C -.-.    D -..     E .
-F ..-.    G --.     H ....    I ..      J .---
-K -.-     L .-..    M --      N -.      O ---
-P .--.    Q --.-    R .-.     S ...     T -
-U ..-     V ...-    W .--     X -..-    Y -.--
-Z --..
-```
-
-### Numbers
-```
-0 -----   1 .----   2 ..---   3 ...--   4 ....-
-5 .....   6 -....   7 --...   8 ---..   9 ----.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
